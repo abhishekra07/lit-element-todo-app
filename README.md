@@ -8,6 +8,8 @@
 npm install --save lit-element
 
 **Writing a template with lit-html**
+| lit-html syntax | Description |
+| --- | --- |
 | value="${}" |  Set an attribute (string) |
 | .value="${}" | Set a property (object) |
 | ?value="${}" | Toggle a boolean attribute |
