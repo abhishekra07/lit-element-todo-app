@@ -7,7 +7,7 @@
 ## To install Lit-Element
 npm install --save lit-element
 
-## Writing a template with lit-html
+**Writing a template with lit-html**
 | value="${}" |  Set an attribute (string) |
 | .value="${}" | Set a property (object) |
 | ?value="${}" | Toggle a boolean attribute |
