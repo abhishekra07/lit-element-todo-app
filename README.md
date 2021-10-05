@@ -8,9 +8,9 @@
 npm install --save lit-element
 
 ## Writing a template with lit-html
-value="${}"   Set an attribute (string)
-.value="${}"  Set a property (object)
-?value="${}"  Toggle a boolean attribute
-@event="${}"  Bind an event
+| value="${}" |  Set an attribute (string) |
+| .value="${}" | Set a property (object) |
+| ?value="${}" | Toggle a boolean attribute |
+| @event="${}" | Bind an event |
 
-To learn more about LitElement visit [here](https://lit-element.polymer-project.org/guide)
+To learn more about LitElement click [here](https://lit-element.polymer-project.org/guide)
